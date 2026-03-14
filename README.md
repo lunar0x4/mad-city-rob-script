@@ -16,3 +16,4 @@ rob("Bank") -- Instead of bank, you can use these: "Plane", "Bank", "Jewelry", "
 
 ## Notes
 - It is queueable (so you can define rob("Bank") or rob("Jewelry") at the same time and it will queue both of them)
+- You may get kicked by the game, don't worry - this is normal and happens often.
