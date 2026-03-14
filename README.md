@@ -15,4 +15,4 @@ rob("Bank") -- Instead of bank, you can use these: "Plane", "Bank", "Jewelry", "
 3. Let the script rob!
 
 ## Notes
-- It is queueable (so you can define rob("Bank") or rob("Jewelry") at the same time and it will queue both of them
+- It is queueable (so you can define rob("Bank") or rob("Jewelry") at the same time and it will queue both of them)
